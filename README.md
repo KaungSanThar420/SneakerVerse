@@ -49,10 +49,8 @@ script.js
 
 ### Option 2 — Local Server (recommended)
 1. Open a terminal in the project folder.
-2. Run a simple server (if Python is installed):
-   ```bash
-   python -m http.server 8000
-Open http://localhost:8000 in your browser.
+2. Run a simple server (if Python is installed)
+
 
 🧪 Test Flow
 Home → “Shop Now” → Products
