@@ -66,7 +66,7 @@ $(function () {
     if (!emailOk || name.length < 2 || message.length < 10) return;
 
     $.ajax({
-      url: 'assets/mock-endpoint.json',
+      url: 'mock-endpoint.json',
       method: 'POST',
       data: JSON.stringify({ name, email, message, ts: Date.now() }),
       contentType: 'application/json',
