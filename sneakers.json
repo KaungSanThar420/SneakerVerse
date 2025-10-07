@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Air Flow Runner",
+    "brand": "Nike",
+    "price": 129.99,
+    "image": "Air Flow Runner.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Street Classic",
+    "brand": "Adidas",
+    "price": 99.5,
+    "image": "Street Classic.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Court Ace Pro",
+    "brand": "Puma",
+    "price": 89.99,
+    "image": "Court Ace Pro.webp"
+  },
+  {
+    "id": 4,
+    "name": "Gel Sprint V2",
+    "brand": "ASICS",
+    "price": 109.0,
+    "image": "Gel Sprint V2.jpg"
+    },
+  {
+    "id": 5,
+    "name": "City Glide",
+    "brand": "New Balance",
+    "price": 120.0,
+    "image": "City Glide.webp"
+  },
+  {
+    "id": 6,
+    "name": "Sk8 High Retro",
+    "brand": "Vans",
+    "price": 79.99,
+    "image": "Sk8 High Retro.webp"
+  },
+  {
+    "id": 7,
+    "name": "Boost Lite",
+    "brand": "Adidas",
+    "price": 139.0,
+    "image": "Boost Lite.webp"
+  },
+  {
+    "id": 8,
+    "name": "Air Zoom Pace",
+    "brand": "Nike",
+    "price": 149.99,
+    "image": "Air Zoom Pace.webp"
+  }
+]
